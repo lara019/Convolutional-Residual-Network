@@ -10,4 +10,5 @@ layers =18, 34, 50
 !python main.py [dataset] [layers]
 
 #example train cifar10 18 layers
+
 !python main.py 2 18
